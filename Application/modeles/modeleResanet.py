@@ -72,7 +72,7 @@ def seConnecterUsager( numeroCarte , mdpCarte ) :
 			usager[ 'numeroCarte' ] = numeroCarte
 			usager[ 'solde' ] = enregistrement[ 0 ]
 			usager[ 'activee' ] = enregistrement[ 1 ]
-			#print type( usager[ 'activee' ] )
+			#print(type( usager[ 'activee' ] ))
 			usager[ 'nom' ] = enregistrement[ 2 ]
 			usager[ 'prenom' ] = enregistrement[ 3 ]
 			
@@ -99,7 +99,7 @@ def getSolde( numeroCarte ) :
 		solde = 'inconnu'
 		if enregistrement != None :
 			solde = enregistrement[ 0 ]
-			#print type(solde)
+			#print(type(solde))
 			
 		curseur.close()
 		return solde
@@ -128,7 +128,7 @@ def getTarifRepas( numeroCarte ) :
 		tarif = 'inconnu'
 		if enregistrement != None :
 			tarif = enregistrement[ 0 ]
-			#print type(tarif)
+			#print(type(tarif))
 			
 		curseur.close()
 		return tarif
