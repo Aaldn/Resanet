@@ -7,6 +7,8 @@ Resanet – par [@Aaldn](https://github.com/Aaldn)
 
 Application de gestion des réservations.
 
+<img src="screenshots/resanet.png"></img>
+
 ### Documentation
 
   * [Documentation utilisateur](docs/Documentation-Utilisateur.pdf) _(À venir)_
