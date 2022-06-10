@@ -1,4 +1,4 @@
-Resanet [![Version](https://img.shields.io/badge/version-1.0.0-2fba00.svg?style=flat-square)](#readme) [![Licence](https://img.shields.io/badge/licence-MIT-2fba00.svg?style=flat-square)](https://github.com/Aaldn/Resanet/blob/master/LICENSE.md)
+Resanet [![Licence](https://img.shields.io/badge/licence-MIT-2fba00.svg?style=flat-square)](https://github.com/Aaldn/Resanet/blob/master/LICENSE.md)
 ========================
 
 Resanet – par [@Aaldn](https://github.com/Aaldn)
